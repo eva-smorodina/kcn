@@ -1,0 +1,41 @@
+remove solvent
+remove hetatm
+bg_color white
+
+set cartoon_side_chain_helper, 1
+set cartoon_fancy_helices, 1
+set ray_trace_mode, 1
+
+set_color b, [101, 217, 255]
+set_color g, [31, 166, 77]
+set_color m, [177, 0, 155]
+
+color m, all
+color b, *_qty
+color g, *_native
+
+#select byres all and ss L
+#remove sele
+
+set cartoon_gap_cutoff, 0
+
+# Additional cleaning of current structures
+
+super O15554_native and ss H, O15554_qty and ss H, cycles = 0   # RMSD = 1.121 (213 to 213 atoms)
+super O95069_native and ss H, O95069_qty and ss H, cycles = 0   # RMSD = 2.302 (205 to 205 atoms)
+super O95279_native and ss H, O95279_qty and ss H, cycles = 0   # RMSD = 0.964 (209 to 209 atoms)
+super P22001_native and ss H, P22001_qty and ss H, cycles = 0   # RMSD = 1.335 (195 to 195 atoms)
+super P22460_native and ss H, P22460_qty and ss H, cycles = 0   # RMSD = 1.554 (225 to 225 atoms)
+super P48549_native and ss H, P48549_qty and ss H, cycles = 0   # RMSD = 1.254 (76 to 76 atoms)
+super P78508_native and ss H, P78508_qty and ss H, cycles = 0   # RMSD = 1.691 (81 to 81 atoms)
+super Q8NCM2_native and ss H, Q8NCM2_qty and ss H, cycles = 0   # RMSD = 1.533 (202 to 202 atoms)
+super Q9NPC2_native and ss H, Q9NPC2_qty and ss H, cycles = 0   # RMSD = 0.507 (212 to 212 atoms)
+super Q9NSA2_native and ss H, Q9NSA2_qty and ss H, cycles = 0   # RMSD = 1.005 (193 to 193 atoms)
+super Q9UGI6_native and ss H, Q9UGI6_qty and ss H, cycles = 0   # RMSD = 1.912 (207 to 207 atoms)
+super Q03721_native and ss H, Q03721_qty and ss H, cycles = 0   # RMSD = 1.095 (196 to 196 atoms)
+super Q09470_native and ss H, Q09470_qty and ss H, cycles = 0   # RMSD = 1.430 (215 to 215 atoms)
+super Q12791_native and ss H, Q12791_qty and ss H, cycles = 0   # RMSD = 1.542 (225 to 225 atoms)
+super Q12809_native and ss H, Q12809_qty and ss H, cycles = 0   # RMSD = 0.905 (225 to 225 atoms)
+super Q14500_native and ss H, Q14500_qty and ss H, cycles = 0   # RMSD = 0.521 (337 to 337 atoms)
+super Q14654_native and ss H, Q14654_qty and ss H, cycles = 0   # RMSD = 0.426 (287 to 287 atoms)
+super Q15842_native and ss H, Q15842_qty and ss H, cycles = 0   # RMSD = 0.467 (97 to 97 atoms)
