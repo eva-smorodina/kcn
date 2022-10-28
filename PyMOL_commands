@@ -39,6 +39,7 @@ super KCNH2_Q12809_native and ss H, KCNH2_Q12809_qty and ss H, cycles = 0   # RM
 super KCNJ12_Q14500_native and ss H, KCNJ12_Q14500_qty and ss H, cycles = 0   # RMSD = 0.521 (337 to 337 atoms)
 super KCNJ11_Q14654_native and ss H, KCNJ11_Q14654_qty and ss H, cycles = 0   # RMSD = 0.426 (287 to 287 atoms)
 super KCNJ8_Q15842_native and ss H, KCNJ8_Q15842_qty and ss H, cycles = 0   # RMSD = 0.467 (97 to 97 atoms)
+super KCNH1_O95259_native and ss H, KCNH1_O95259_qty and ss H, cycles=0   # RMSD = 1.600 (213 to 213 atoms)
 
 super KCNN4_O15554_native, KCNN4_O15554_qty, cycles = 0   # RMSD = 1.663 (2092 to 2092 atoms) 
 super KCNK2_O95069_native, KCNK2_O95069_qty, cycles = 0   # RMSD = 2.450 (1949 to 1949 atoms)
@@ -58,3 +59,4 @@ super KCNH2_Q12809_native, KCNH2_Q12809_qty, cycles = 0   # RMSD = 1.987 (2174 t
 super KCNJ12_Q14500_native, KCNJ12_Q14500_qty, cycles = 0   # RMSD = 1.051 (975 to 975 atoms)
 super KCNJ11_Q14654_native, KCNJ11_Q14654_qty, cycles = 0   # RMSD = 0.960 (856 to 856 atoms)
 super KCNJ8_Q15842_native, KCNJ8_Q15842_qty, cycles = 0   # RMSD = 0.963 (925 to 925 atoms)
+super KCNH1_O95259_native, KCNH1_O95259_qty, cycles=0   # RMSD = 1.892 (2190 to 2190 atoms)
