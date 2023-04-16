@@ -1,4 +1,4 @@
-##Structural bioinformatics of 6 determined and 12 AlphaFold2-predicted native human potassium ion channels and their water-soluble QTY variants
+#Structural bioinformatics of 6 determined and 12 AlphaFold2-predicted native human potassium ion channels and their water-soluble QTY variants
 
 Integral transmembrane protein ion channels are involved in cell signaling, cellular and
 environmental sensing, cell migration, cancer metastasis, transport, and metabolism as well as other
