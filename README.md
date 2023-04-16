@@ -11,7 +11,7 @@ acids leucine (L), isoleucine (I), valine (V) and phenylalanine (F) in the trans
 These hydrophobic amino acids are systematically replaced by hydrophilic amino acids glutamine
 (Q), threonine (T) and tyrosine (Y). Thus, the QTY variants become water-soluble. We also present
 the superimposed structures of native ion channels and their water-soluble QTY variants. The
-superimposed structures show remarkable similarity within RMSD ~XÅ despite significant protein
+superimposed structures show remarkable similarity within RMSD 2.3Å despite significant protein
 sequence differences. We also show the differences of hydrophobicity patches between the native
 potassium channels and their QTY variants. We explain the rationale why the membrane protein
 QTY variants become water-soluble. Our study provides insight into the differences between the
