@@ -17,3 +17,5 @@ potassium channels and their QTY variants. We explain the rationale why the memb
 QTY variants become water-soluble. Our study provides insight into the differences between the
 hydrophobic helices and hydrophilic helices, and will likely further stimulate designs of water-
 soluble multispan transmembrane proteins and other aggregated proteins.
+
+<img src="./kcn_params.png">
