@@ -18,4 +18,3 @@ QTY variants become water-soluble. Our study provides insight into the differenc
 hydrophobic helices and hydrophilic helices, and will likely further stimulate designs of water-
 soluble multispan transmembrane proteins and other aggregated proteins.
 
-<img src="./kcn_params.png">
